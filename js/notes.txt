@@ -1,0 +1,33 @@
+Module quiz: Programming Paradigms
+
+1.true
+
+2.undefined?
+Not quite. Revisit "Introduction to functional programming".
+
+3.10
+10|Not quite. Revisit "Introduction to object-orientated programming".
+
+4.growl
+
+5.
+Not quite. Revisit "Advanced JavaScript features".
+
+6.
+Not quite. Revisit "Advanced JavaScript features".
+
+7.
+getElementsById|getElementByClassName|Not quite, revisit "JavaScript in the browser".|Not quite, revisit "JavaScript in the browser".
+
+8.JSON.parse
+Correct
+That's correct!  JSON.parse  will convert a JSON string to a JavaScript object.
+JSON.stringify
+Correct
+That's correct!  JSON.stringify  will convert a JavaScript object to a JSON string.
+
+9.Uncaught TypeError: Assignment to constant variable   
+That's correct. You cannot reassign a variable assigned using the const keyword.
+
+10.A function that is called to create an instance of an object.
+Correct. A constructor function details how an object will be built using the keyword new.  
